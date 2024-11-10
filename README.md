@@ -23,7 +23,7 @@ Sigue estos pasos para instalar el bot en tu entorno local:
 git clone https://github.com/Polocraft1/Bot-craft
 
 # Entra en el directorio del proyecto
-cd minecraft-bot
+cd minebot
 
 # Instala las dependencias
 npm install
@@ -34,7 +34,7 @@ npm install
 Una vez instalado, puedes iniciar el bot con el siguiente comando:
 
 ```bash
-node index.js
+node b.js
 ```
 
 Asegúrate de configurar correctamente tu archivo de configuración antes de ejecutar el bot.
