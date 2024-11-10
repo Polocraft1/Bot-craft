@@ -20,7 +20,7 @@ Sigue estos pasos para instalar el bot en tu entorno local:
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu_usuario/minecraft-bot.git
+git clone https://github.com/Polocraft1/Bot-craft
 
 # Entra en el directorio del proyecto
 cd minecraft-bot
